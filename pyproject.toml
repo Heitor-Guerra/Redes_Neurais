@@ -1,0 +1,11 @@
+[project]
+name = "redes-neurais"
+version = "0.1.0"
+description = "Projeto de Redes Neurais para a disciplina de TTI"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib==3.10.8",
+    "opencv-python==4.13.0.92",
+    "requests==2.33.1",
+]
